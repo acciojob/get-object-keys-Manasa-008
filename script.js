@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const student={
+let student={
 	name:"Manasa",
 };
 
